@@ -18,3 +18,5 @@ I bought the LEDs [here at Amazon](http://www.amazon.com/Amico-Common-Cathode-Em
 
 They are Common Cathode RGB Light LED Emitting Diodes
 
+Code originated from [Henry Leach](http://www.henryleach.com/2013/05/controlling-rgb-led-with-raspberry-pi.html)
+
